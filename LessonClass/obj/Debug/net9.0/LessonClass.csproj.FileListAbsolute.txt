@@ -1,0 +1,15 @@
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/Debug/net9.0/LessonClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/Debug/net9.0/LessonClass.AssemblyInfoInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/Debug/net9.0/LessonClass.AssemblyInfo.cs
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/Debug/net9.0/LessonClass.csproj.CoreCompileInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/Debug/net9.0/LessonClass.sourcelink.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/bin/Debug/net9.0/LessonClass
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/bin/Debug/net9.0/LessonClass.deps.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/bin/Debug/net9.0/LessonClass.runtimeconfig.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/bin/Debug/net9.0/LessonClass.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/bin/Debug/net9.0/LessonClass.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/Debug/net9.0/LessonClass.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/Debug/net9.0/refint/LessonClass.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/Debug/net9.0/LessonClass.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/Debug/net9.0/LessonClass.genruntimeconfig.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/Debug/net9.0/ref/LessonClass.dll

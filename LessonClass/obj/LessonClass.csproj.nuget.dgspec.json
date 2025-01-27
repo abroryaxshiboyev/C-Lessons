@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/class/class.csproj": {}
+    "/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/LessonClass.csproj": {}
   },
   "projects": {
-    "/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/class/class.csproj": {
+    "/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/LessonClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/class/class.csproj",
-        "projectName": "class",
-        "projectPath": "/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/class/class.csproj",
+        "projectUniqueName": "/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/LessonClass.csproj",
+        "projectName": "LessonClass",
+        "projectPath": "/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/LessonClass.csproj",
         "packagesPath": "/Users/usermacmini1/.nuget/packages/",
-        "outputPath": "/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/class/obj/",
+        "outputPath": "/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonClass/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/usermacmini1/.nuget/NuGet/NuGet.Config"
