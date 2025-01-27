@@ -1,0 +1,15 @@
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/bin/Debug/net9.0/LessonTuple
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/bin/Debug/net9.0/LessonTuple.deps.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/bin/Debug/net9.0/LessonTuple.runtimeconfig.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/bin/Debug/net9.0/LessonTuple.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/bin/Debug/net9.0/LessonTuple.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/obj/Debug/net9.0/LessonTuple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/obj/Debug/net9.0/LessonTuple.AssemblyInfoInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/obj/Debug/net9.0/LessonTuple.AssemblyInfo.cs
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/obj/Debug/net9.0/LessonTuple.csproj.CoreCompileInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/obj/Debug/net9.0/LessonTuple.sourcelink.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/obj/Debug/net9.0/LessonTuple.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/obj/Debug/net9.0/refint/LessonTuple.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/obj/Debug/net9.0/LessonTuple.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/obj/Debug/net9.0/LessonTuple.genruntimeconfig.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonTuple/obj/Debug/net9.0/ref/LessonTuple.dll
