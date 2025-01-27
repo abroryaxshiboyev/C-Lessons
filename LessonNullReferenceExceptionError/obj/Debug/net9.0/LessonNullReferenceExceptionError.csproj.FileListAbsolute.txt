@@ -1,0 +1,15 @@
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/obj/Debug/net9.0/LessonNullReferenceExceptionError.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/obj/Debug/net9.0/LessonNullReferenceExceptionError.AssemblyInfoInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/obj/Debug/net9.0/LessonNullReferenceExceptionError.AssemblyInfo.cs
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/obj/Debug/net9.0/LessonNullReferenceExceptionError.csproj.CoreCompileInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/obj/Debug/net9.0/LessonNullReferenceExceptionError.sourcelink.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/bin/Debug/net9.0/LessonNullReferenceExceptionError
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/bin/Debug/net9.0/LessonNullReferenceExceptionError.deps.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/bin/Debug/net9.0/LessonNullReferenceExceptionError.runtimeconfig.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/bin/Debug/net9.0/LessonNullReferenceExceptionError.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/bin/Debug/net9.0/LessonNullReferenceExceptionError.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/obj/Debug/net9.0/LessonNullReferenceExceptionError.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/obj/Debug/net9.0/refint/LessonNullReferenceExceptionError.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/obj/Debug/net9.0/LessonNullReferenceExceptionError.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/obj/Debug/net9.0/LessonNullReferenceExceptionError.genruntimeconfig.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/LessonNullReferenceExceptionError/obj/Debug/net9.0/ref/LessonNullReferenceExceptionError.dll
