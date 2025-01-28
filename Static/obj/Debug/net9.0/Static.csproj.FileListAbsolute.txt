@@ -1,0 +1,15 @@
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/bin/Debug/net9.0/Static
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/bin/Debug/net9.0/Static.deps.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/bin/Debug/net9.0/Static.runtimeconfig.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/bin/Debug/net9.0/Static.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/bin/Debug/net9.0/Static.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/obj/Debug/net9.0/Static.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/obj/Debug/net9.0/Static.AssemblyInfoInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/obj/Debug/net9.0/Static.AssemblyInfo.cs
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/obj/Debug/net9.0/Static.csproj.CoreCompileInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/obj/Debug/net9.0/Static.sourcelink.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/obj/Debug/net9.0/Static.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/obj/Debug/net9.0/refint/Static.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/obj/Debug/net9.0/Static.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/obj/Debug/net9.0/Static.genruntimeconfig.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/Static/obj/Debug/net9.0/ref/Static.dll
