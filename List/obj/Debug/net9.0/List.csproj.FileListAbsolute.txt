@@ -1,0 +1,15 @@
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/bin/Debug/net9.0/List
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/bin/Debug/net9.0/List.deps.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/bin/Debug/net9.0/List.runtimeconfig.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/bin/Debug/net9.0/List.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/bin/Debug/net9.0/List.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/obj/Debug/net9.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/obj/Debug/net9.0/List.AssemblyInfoInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/obj/Debug/net9.0/List.AssemblyInfo.cs
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/obj/Debug/net9.0/List.csproj.CoreCompileInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/obj/Debug/net9.0/List.sourcelink.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/obj/Debug/net9.0/List.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/obj/Debug/net9.0/refint/List.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/obj/Debug/net9.0/List.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/obj/Debug/net9.0/List.genruntimeconfig.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/List/obj/Debug/net9.0/ref/List.dll
