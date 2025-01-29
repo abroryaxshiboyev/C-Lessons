@@ -1,0 +1,15 @@
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/bin/Debug/net9.0/DelegatesFuncAction
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/bin/Debug/net9.0/DelegatesFuncAction.deps.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/bin/Debug/net9.0/DelegatesFuncAction.runtimeconfig.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/bin/Debug/net9.0/DelegatesFuncAction.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/bin/Debug/net9.0/DelegatesFuncAction.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/obj/Debug/net9.0/DelegatesFuncAction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/obj/Debug/net9.0/DelegatesFuncAction.AssemblyInfoInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/obj/Debug/net9.0/DelegatesFuncAction.AssemblyInfo.cs
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/obj/Debug/net9.0/DelegatesFuncAction.csproj.CoreCompileInputs.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/obj/Debug/net9.0/DelegatesFuncAction.sourcelink.json
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/obj/Debug/net9.0/DelegatesFuncAction.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/obj/Debug/net9.0/refint/DelegatesFuncAction.dll
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/obj/Debug/net9.0/DelegatesFuncAction.pdb
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/obj/Debug/net9.0/DelegatesFuncAction.genruntimeconfig.cache
+/Users/usermacmini1/Developer/Lessons/dotnet/ConsoleApp/DelegatesFuncAction/obj/Debug/net9.0/ref/DelegatesFuncAction.dll
